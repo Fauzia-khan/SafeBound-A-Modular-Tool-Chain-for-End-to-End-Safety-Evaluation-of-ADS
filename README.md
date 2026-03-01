@@ -24,5 +24,9 @@ A tool that systematically selects, executes scenarios, and evaluates the safety
 
 11. **SafeBound_Tool_Demo** - Provides a demo to use the SafeBound Tool </br>
 
-12. **A sample output of the SSTSS Process** - shows an example output of the SSTSS Process.
+12. **A sample output of the SSTSS Process** - shows an example output of the SSTSS Process. </br>
+
+13. **Results** - contains all the generated files from Scenario Execution to Data Visualization Module for each simulation run.
+
+
 
