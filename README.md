@@ -1,6 +1,5 @@
 # SafeBound-A-Modular-Tool-Chain-for-End-to-End-Safety-Evaluation-of-ADS
-A tool that systematically selects, executes scenarios, and evaluates the safety of ADS/.
-
+SafeBound is a modular end-to-end pipeline for scenario-based safety testing of Automated Driving Systems (ADS). It streamlines the entire workflow, from scenario selection and implementation to configuration, simulation, data collection, safety evaluation, and the generation of visualization and simulation summary reports.
 
 1. **Euro-NCAP-SceanrioCatalog.pdf**  - List of scenarios provided by Euro-NCAP. </br>
 
