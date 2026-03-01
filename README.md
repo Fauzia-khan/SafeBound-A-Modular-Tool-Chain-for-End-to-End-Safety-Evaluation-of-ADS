@@ -22,7 +22,7 @@ A tool that systematically selects, executes scenarios, and evaluates the safety
 
 10. **Singapore-ScenarioCatalog**  - List of scenarios provided by the  Land Transport Authority of Singapore. </br>
 
-11. **Tool-Demo** - Provides a demo to use the  SafeBound Tool </br>
+11. **SafeBound_Tool_Demo** - Provides a demo to use the SafeBound Tool </br>
 
 12. **A sample output of the SSTSS Process** - shows an example output of the SSTSS Process.
 
